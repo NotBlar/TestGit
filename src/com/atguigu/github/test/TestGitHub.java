@@ -5,5 +5,6 @@ public class TestGitHub {
 	public static void main(String[] args) {
 		System.out.println("Hello GitHub!");
 		System.out.println("Update 01");
+		System.out.println("write by remove");
 	}
 }
