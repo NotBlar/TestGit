@@ -8,5 +8,6 @@ public class TestGitHub {
 		System.out.println("write by remove");
 		System.out.println("write by remove11");
 		System.out.println("write by local");
+		System.out.println("write by remove22");
 	}
 }
